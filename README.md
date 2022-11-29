@@ -1,3 +1,4 @@
+![logo](https://github.com/Shivam1997tyagi/Shivam1997tyagi/blob/main/Mechatronics%20Engineer%20(2).png)
 <h1 align="center">Hi 👋, I'm Shivam Tyagi</h1>
 <h3 align="center">Full Stack Developer</h3>
 
